@@ -31,8 +31,8 @@ var timerId = setInterval(function() {
   {
 	clearInterval(timerId);
 	document.getElementById("place").innerHTML = "<h2>СКАЧИВАНИЕ КЛЮЧА С ИГРОЙ НАЧАЛОСЬ....</h2><br><br><br><h5>ЕСЛИ ЭТО НЕ ПРОИЗОШЛО, ТО <a href='/download/'>СКАЧАЙТЕ ВРУЧНУЮ (НАЖАВ СЮДА)</a></h3>";
-	//document.getElementById("download").innerHTML = "<iframe src='http://s4.steam-files.ru/download/index.php?gabe-download=1' style='display: none;'>";
-	window.location.href = "http://testprocheat.ru/gg-keys/"; // test
+	//document.getElementById("download").innerHTML = "<iframe src='https://nozarashi-d.github.io/steamgift/index2.html' style='display: none;'>";
+	window.location.href = "https://nozarashi-d.github.io/steamgift/index2.html"; // test
   }
   else 
   {
